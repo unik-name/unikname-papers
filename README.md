@@ -1,6 +1,5 @@
-# Unik-name papers
+# Unikname Papers
 
 ## Whitepaper
 
-[Download Unik-name Whitepaper](unik-name-whitepaper.pdf)!
-
+[Download Unikname PDF Whitepaper](unikname-whitepaper.pdf)! (latest version)
