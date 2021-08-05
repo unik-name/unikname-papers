@@ -1,5 +1,4 @@
 # Unikname Papers
-
 ## Unikname White Paper
 
 Provides various detailed information on the rationale of the creation of the Project, its functioning, and the use of the UNIK Tokens
@@ -12,3 +11,10 @@ Provides various detailed information on the rationale of the creation of the Pr
 Provides summarized information anout the Unikname Project.
 
 [Download Unikname Light Deck  - PDF format](unikname_light_deck_V2108.pdf) 
+
+## Whitelist
+
+You want to be informed about the token sale and any other promotionnal event, then join the whitelist.
+
+[Join the whitelist](https://kover.link/uniknamelightdeck)
+
