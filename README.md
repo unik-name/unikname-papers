@@ -3,7 +3,7 @@
 
 Provides various detailed information on the rationale of the creation of the Project, its functioning, and the use of the UNIK Tokens
 
-[Download Unikname White Paper - PDF format](unikname_whitepaper_V2.1_draft.pdf) (latest version)
+[Download Unikname White Paper V2.2 - PDF format](unikname_whitepaper.pdf) (latest version)
 
 
 ## Unikname Light Deck
