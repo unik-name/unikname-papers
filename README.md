@@ -10,12 +10,12 @@ Provides various detailed information on the rationale of the creation of the Pr
 
 Provides summarized information anout the Unikname Project.
 
-* ENGLISH - [Download Unikname Light Deck - PDF format](unikname_light_deck_V2108.pdf) 
+* ENGLISH - [Download Unikname Light Deck - PDF format](unikname_light_deck_english.pdf) 
 * TURKISH - [İndirmek Unikname Light Deck - PDF biçim](unikname_light_deck_turkish.pdf) 
 
 ## Whitelist
 
 You want to be informed about the token sale and any other promotionnal event, then join the whitelist.
 
-[Join the whitelist](https://kover.link/uniknamelightdeck)
+[Join the whitelist](https://kover.link/unikdeck)
 
