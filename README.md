@@ -10,7 +10,8 @@ Provides various detailed information on the rationale of the creation of the Pr
 
 Provides summarized information anout the Unikname Project.
 
-[Download Unikname Light Deck  - PDF format](unikname_light_deck_V2108.pdf) 
+* ENGLISH - [Download Unikname Light Deck - PDF format](unikname_light_deck_V2108.pdf) 
+* TURKISH - [İndirmek Unikname Light Deck - PDF biçim](unikname_light_deck_turkish.pdf) 
 
 ## Whitelist
 
